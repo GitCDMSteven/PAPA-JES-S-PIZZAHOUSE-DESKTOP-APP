@@ -1,0 +1,47 @@
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\bin\Debug\JES'SPIZZAHOUSE.exe.config
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\bin\Debug\JES'SPIZZAHOUSE.exe
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\bin\Debug\JES'SPIZZAHOUSE.pdb
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\bin\Debug\CuoreUI.dll
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\bin\Debug\Guna.UI2.dll
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\obj\Debug\JES'SPIZZAHOUSE.csproj.AssemblyReference.cache
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.Form1.resources
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.Properties.Resources.resources
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\obj\Debug\JES'SPIZZAHOUSE.csproj.GenerateResource.cache
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\obj\Debug\JES'SPIZZAHOUSE.csproj.CoreCompileInputs.cache
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\obj\Debug\JES'SPIZ.36B2DF02.Up2Date
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\obj\Debug\JES'SPIZZAHOUSE.exe
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\obj\Debug\JES'SPIZZAHOUSE.pdb
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\obj\Debug\JES'SPIZZAHOUSE.exe.config
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.dashboard.resources
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.inventorycs.resources
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.dashpanel.resources
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.addproduct.resources
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.product.resources
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.addtochart.resources
+C:\Users\FLORES\source\repos\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.POS.resources
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\obj\Debug\JES'SPIZZAHOUSE.csproj.AssemblyReference.cache
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\obj\Debug\JES'SPIZZAHOUSE.exe.config
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\obj\Debug\JES'SPIZZAHOUSE.exe
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\obj\Debug\JES'SPIZZAHOUSE.pdb
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\bin\Debug\JES'SPIZZAHOUSE.exe.config
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\bin\Debug\JES'SPIZZAHOUSE.exe
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\bin\Debug\JES'SPIZZAHOUSE.pdb
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\bin\Debug\CuoreUI.dll
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\bin\Debug\Guna.UI2.dll
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.addproduct.resources
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.addtochart.resources
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.dashboard.resources
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.dashpanel.resources
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.Form1.resources
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.inventorycs.resources
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.POS.resources
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.product.resources
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.Properties.Resources.resources
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\obj\Debug\JES_SPIZZAHOUSE.report.resources
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\obj\Debug\JES'SPIZZAHOUSE.csproj.GenerateResource.cache
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\obj\Debug\JES'SPIZZAHOUSE.csproj.CoreCompileInputs.cache
+C:\Users\John Steven\OneDrive\Desktop\JES'SPIZZAHOUSE\JES'SPIZZAHOUSE\obj\Debug\JES'SPIZ.36B2DF02.Up2Date
