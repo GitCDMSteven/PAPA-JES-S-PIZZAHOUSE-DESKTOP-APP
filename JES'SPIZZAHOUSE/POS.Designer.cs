@@ -163,6 +163,7 @@
             this.guna2HtmlLabel97 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2PictureBox2 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.txtEmail = new Guna.UI2.WinForms.Guna2TextBox();
+            this.Bt_Home = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
             this.guna2Panel2.SuspendLayout();
@@ -197,6 +198,7 @@
             // 
             // guna2Panel1
             // 
+            this.guna2Panel1.Controls.Add(this.Bt_Home);
             this.guna2Panel1.Controls.Add(this.guna2Button2);
             this.guna2Panel1.Controls.Add(this.guna2PictureBox1);
             this.guna2Panel1.Dock = System.Windows.Forms.DockStyle.Left;
@@ -234,6 +236,7 @@
             this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.guna2PictureBox1.TabIndex = 0;
             this.guna2PictureBox1.TabStop = false;
+            this.guna2PictureBox1.Click += new System.EventHandler(this.guna2PictureBox1_Click);
             // 
             // guna2Panel2
             // 
@@ -1836,6 +1839,30 @@
             this.txtEmail.UseWaitCursor = true;
             this.txtEmail.TextChanged += new System.EventHandler(this.txtEmail_TextChanged);
             // 
+            // Bt_Home
+            // 
+            this.Bt_Home.Animated = true;
+            this.Bt_Home.BorderRadius = 15;
+            this.Bt_Home.CustomizableEdges.BottomLeft = false;
+            this.Bt_Home.CustomizableEdges.TopLeft = false;
+            this.Bt_Home.DisabledState.BorderColor = System.Drawing.Color.Transparent;
+            this.Bt_Home.DisabledState.CustomBorderColor = System.Drawing.Color.Transparent;
+            this.Bt_Home.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(110)))), ((int)(((byte)(41)))), ((int)(((byte)(41)))));
+            this.Bt_Home.DisabledState.ForeColor = System.Drawing.Color.White;
+            this.Bt_Home.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(121)))), ((int)(((byte)(14)))));
+            this.Bt_Home.Font = new System.Drawing.Font("Bookman Old Style", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Bt_Home.ForeColor = System.Drawing.Color.White;
+            this.Bt_Home.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(110)))), ((int)(((byte)(41)))), ((int)(((byte)(41)))));
+            this.Bt_Home.HoverState.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Bt_Home.Image = ((System.Drawing.Image)(resources.GetObject("Bt_Home.Image")));
+            this.Bt_Home.ImageAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.Bt_Home.Location = new System.Drawing.Point(0, 255);
+            this.Bt_Home.Name = "Bt_Home";
+            this.Bt_Home.Size = new System.Drawing.Size(140, 53);
+            this.Bt_Home.TabIndex = 10;
+            this.Bt_Home.Text = "Dashboard";
+            this.Bt_Home.Click += new System.EventHandler(this.Bt_Home_Click);
+            // 
             // POS
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -2037,6 +2064,7 @@
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel99;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel98;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel17;
+        private Guna.UI2.WinForms.Guna2Button Bt_Home;
     }
     // Remove or comment out this line to avoid using an image and fix the error:
     // this.guna2PictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox2.Image")));

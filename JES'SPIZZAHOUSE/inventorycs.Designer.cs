@@ -124,11 +124,11 @@
             // guna2HtmlLabel15
             // 
             this.guna2HtmlLabel15.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel15.Font = new System.Drawing.Font("Microsoft Uighur", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel15.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel15.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(42)))));
             this.guna2HtmlLabel15.Location = new System.Drawing.Point(490, 11);
             this.guna2HtmlLabel15.Name = "guna2HtmlLabel15";
-            this.guna2HtmlLabel15.Size = new System.Drawing.Size(48, 22);
+            this.guna2HtmlLabel15.Size = new System.Drawing.Size(76, 17);
             this.guna2HtmlLabel15.TabIndex = 40;
             this.guna2HtmlLabel15.Text = "REGULAR :";
             // 
@@ -146,11 +146,11 @@
             // guna2HtmlLabel17
             // 
             this.guna2HtmlLabel17.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel17.Font = new System.Drawing.Font("Microsoft Uighur", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel17.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel17.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(42)))));
             this.guna2HtmlLabel17.Location = new System.Drawing.Point(582, 11);
             this.guna2HtmlLabel17.Name = "guna2HtmlLabel17";
-            this.guna2HtmlLabel17.Size = new System.Drawing.Size(35, 22);
+            this.guna2HtmlLabel17.Size = new System.Drawing.Size(56, 17);
             this.guna2HtmlLabel17.TabIndex = 38;
             this.guna2HtmlLabel17.Text = "LARGE :";
             // 
@@ -250,11 +250,11 @@
             // guna2HtmlLabel13
             // 
             this.guna2HtmlLabel13.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel13.Font = new System.Drawing.Font("Microsoft Uighur", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel13.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel13.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(42)))));
             this.guna2HtmlLabel13.Location = new System.Drawing.Point(490, 11);
             this.guna2HtmlLabel13.Name = "guna2HtmlLabel13";
-            this.guna2HtmlLabel13.Size = new System.Drawing.Size(48, 22);
+            this.guna2HtmlLabel13.Size = new System.Drawing.Size(76, 17);
             this.guna2HtmlLabel13.TabIndex = 36;
             this.guna2HtmlLabel13.Text = "REGULAR :";
             // 
@@ -272,11 +272,11 @@
             // guna2HtmlLabel12
             // 
             this.guna2HtmlLabel12.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel12.Font = new System.Drawing.Font("Microsoft Uighur", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel12.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel12.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(42)))));
             this.guna2HtmlLabel12.Location = new System.Drawing.Point(582, 11);
             this.guna2HtmlLabel12.Name = "guna2HtmlLabel12";
-            this.guna2HtmlLabel12.Size = new System.Drawing.Size(35, 22);
+            this.guna2HtmlLabel12.Size = new System.Drawing.Size(56, 17);
             this.guna2HtmlLabel12.TabIndex = 34;
             this.guna2HtmlLabel12.Text = "LARGE :";
             // 
@@ -481,11 +481,11 @@
             // guna2HtmlLabel21
             // 
             this.guna2HtmlLabel21.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel21.Font = new System.Drawing.Font("Microsoft Uighur", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel21.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel21.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(42)))));
-            this.guna2HtmlLabel21.Location = new System.Drawing.Point(268, 134);
+            this.guna2HtmlLabel21.Location = new System.Drawing.Point(251, 134);
             this.guna2HtmlLabel21.Name = "guna2HtmlLabel21";
-            this.guna2HtmlLabel21.Size = new System.Drawing.Size(48, 22);
+            this.guna2HtmlLabel21.Size = new System.Drawing.Size(76, 17);
             this.guna2HtmlLabel21.TabIndex = 44;
             this.guna2HtmlLabel21.Text = "REGULAR :";
             // 
@@ -494,7 +494,7 @@
             this.guna2HtmlLabel22.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel22.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel22.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(42)))));
-            this.guna2HtmlLabel22.Location = new System.Drawing.Point(322, 134);
+            this.guna2HtmlLabel22.Location = new System.Drawing.Point(333, 134);
             this.guna2HtmlLabel22.Name = "guna2HtmlLabel22";
             this.guna2HtmlLabel22.Size = new System.Drawing.Size(19, 20);
             this.guna2HtmlLabel22.TabIndex = 43;
@@ -503,20 +503,21 @@
             // guna2HtmlLabel23
             // 
             this.guna2HtmlLabel23.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel23.Font = new System.Drawing.Font("Microsoft Uighur", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel23.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel23.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(42)))));
-            this.guna2HtmlLabel23.Location = new System.Drawing.Point(281, 183);
+            this.guna2HtmlLabel23.Location = new System.Drawing.Point(251, 183);
             this.guna2HtmlLabel23.Name = "guna2HtmlLabel23";
-            this.guna2HtmlLabel23.Size = new System.Drawing.Size(35, 22);
+            this.guna2HtmlLabel23.Size = new System.Drawing.Size(56, 17);
             this.guna2HtmlLabel23.TabIndex = 42;
             this.guna2HtmlLabel23.Text = "LARGE :";
+            this.guna2HtmlLabel23.Click += new System.EventHandler(this.guna2HtmlLabel23_Click);
             // 
             // guna2HtmlLabel24
             // 
             this.guna2HtmlLabel24.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel24.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel24.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(42)))), ((int)(((byte)(42)))));
-            this.guna2HtmlLabel24.Location = new System.Drawing.Point(322, 183);
+            this.guna2HtmlLabel24.Location = new System.Drawing.Point(333, 183);
             this.guna2HtmlLabel24.Name = "guna2HtmlLabel24";
             this.guna2HtmlLabel24.Size = new System.Drawing.Size(19, 20);
             this.guna2HtmlLabel24.TabIndex = 41;
@@ -536,11 +537,11 @@
             // guna2HtmlLabel19
             // 
             this.guna2HtmlLabel19.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel19.Font = new System.Drawing.Font("Microsoft Uighur", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel19.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel19.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(110)))), ((int)(((byte)(41)))), ((int)(((byte)(41)))));
-            this.guna2HtmlLabel19.Location = new System.Drawing.Point(23, 52);
+            this.guna2HtmlLabel19.Location = new System.Drawing.Point(4, 59);
             this.guna2HtmlLabel19.Name = "guna2HtmlLabel19";
-            this.guna2HtmlLabel19.Size = new System.Drawing.Size(59, 29);
+            this.guna2HtmlLabel19.Size = new System.Drawing.Size(61, 18);
             this.guna2HtmlLabel19.TabIndex = 34;
             this.guna2HtmlLabel19.Text = "LARGE        :";
             // 
@@ -568,11 +569,11 @@
             // guna2HtmlLabel20
             // 
             this.guna2HtmlLabel20.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel20.Font = new System.Drawing.Font("Microsoft Uighur", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel20.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel20.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(110)))), ((int)(((byte)(41)))), ((int)(((byte)(41)))));
-            this.guna2HtmlLabel20.Location = new System.Drawing.Point(3, 10);
+            this.guna2HtmlLabel20.Location = new System.Drawing.Point(3, 15);
             this.guna2HtmlLabel20.Name = "guna2HtmlLabel20";
-            this.guna2HtmlLabel20.Size = new System.Drawing.Size(80, 29);
+            this.guna2HtmlLabel20.Size = new System.Drawing.Size(83, 18);
             this.guna2HtmlLabel20.TabIndex = 33;
             this.guna2HtmlLabel20.Text = "REGULAR :";
             // 
@@ -644,7 +645,6 @@
             // guna2GradientPanel1
             // 
             this.guna2GradientPanel1.Controls.Add(this.guna2HtmlLabel11);
-            this.guna2GradientPanel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.guna2GradientPanel1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(110)))), ((int)(((byte)(41)))), ((int)(((byte)(41)))));
             this.guna2GradientPanel1.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(83)))), ((int)(((byte)(18)))));
             this.guna2GradientPanel1.Location = new System.Drawing.Point(0, 0);

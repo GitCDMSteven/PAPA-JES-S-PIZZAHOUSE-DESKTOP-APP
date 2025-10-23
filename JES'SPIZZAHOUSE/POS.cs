@@ -229,7 +229,27 @@ namespace JES_SPIZZAHOUSE
 
         private void guna2Button2_Click(object sender, EventArgs e)
         {
-          
+            var loginForm = new Form1(); 
+            loginForm.Show();
+            this.Hide();
+        }
+
+        private void guna2PictureBox1_Click(object sender, EventArgs e)
+        {
+            dashboard dash = new dashboard();
+            dash.Show();
+
+        
+            this.Hide();
+        }
+
+        private void Bt_Home_Click(object sender, EventArgs e)
+        {
+            dashboard dash = new dashboard();
+            dash.Show();
+
+
+            this.Hide();
         }
     }
 }

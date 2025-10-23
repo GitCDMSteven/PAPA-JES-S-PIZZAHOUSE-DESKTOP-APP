@@ -84,5 +84,10 @@ namespace JES_SPIZZAHOUSE
         {
 
         }
+
+        private void guna2HtmlLabel23_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

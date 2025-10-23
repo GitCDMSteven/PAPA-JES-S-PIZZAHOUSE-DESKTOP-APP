@@ -1,38 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\",
+  "WorkspaceRootPath": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\addtochart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|solutionrelative:addtochart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\POS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|c:\\users\\john steven\\onedrive\\desktop\\papa-jes-s-pizzahouse-desktop-app\\jes\u0027spizzahouse\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|solutionrelative:addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|c:\\users\\john steven\\onedrive\\desktop\\papa-jes-s-pizzahouse-desktop-app\\jes\u0027spizzahouse\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\dashpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dashpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|c:\\users\\john steven\\onedrive\\desktop\\papa-jes-s-pizzahouse-desktop-app\\jes\u0027spizzahouse\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|c:\\users\\john steven\\onedrive\\desktop\\papa-jes-s-pizzahouse-desktop-app\\jes\u0027spizzahouse\\inventorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|solutionrelative:inventorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\addtochart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:addtochart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|c:\\users\\john steven\\onedrive\\desktop\\papa-jes-s-pizzahouse-desktop-app\\jes\u0027spizzahouse\\inventorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|solutionrelative:inventorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\addtochart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:addtochart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\POS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|solutionrelative:POS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|solutionrelative:pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|c:\\users\\john steven\\onedrive\\desktop\\papa-jes-s-pizzahouse-desktop-app\\jes\u0027spizzahouse\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\dashpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|solutionrelative:dashpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|solutionrelative:report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|c:\\users\\john steven\\onedrive\\desktop\\papa-jes-s-pizzahouse-desktop-app\\jes\u0027spizzahouse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|c:\\users\\john steven\\onedrive\\desktop\\papa-jes-s-pizzahouse-desktop-app\\jes\u0027spizzahouse\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|c:\\users\\john steven\\onedrive\\desktop\\papa-jes-s-pizzahouse-desktop-app\\jes\u0027spizzahouse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\addtochart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600C8974-8E7C-4BF7-BB06-FC67314FFA96}|JES\u0027SPIZZAHOUSE.csproj|solutionrelative:addtochart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,17 +74,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "POS.cs",
-              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\POS.cs",
+              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\POS.cs",
               "RelativeDocumentMoniker": "POS.cs",
-              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\POS.cs",
+              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\POS.cs",
               "RelativeToolTip": "POS.cs",
-              "ViewState": "AgIAANsAAAAAAAAAAAApwOcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAWwPsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T13:37:49.179Z",
               "IsPinned": true,
@@ -64,46 +96,147 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "report.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\report.cs",
-              "RelativeDocumentMoniker": "report.cs",
-              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\report.cs [Design]",
-              "RelativeToolTip": "report.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "addproduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\addproduct.cs",
+              "RelativeDocumentMoniker": "addproduct.cs",
+              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\addproduct.cs [Design]",
+              "RelativeToolTip": "addproduct.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T12:19:34.531Z"
+              "WhenOpened": "2025-10-23T14:02:50.554Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dashpanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\dashpanel.cs",
-              "RelativeDocumentMoniker": "dashpanel.cs",
-              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\dashpanel.cs [Design]",
-              "RelativeToolTip": "dashpanel.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "inventorycs.cs",
+              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\inventorycs.cs",
+              "RelativeDocumentMoniker": "inventorycs.cs",
+              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\inventorycs.cs",
+              "RelativeToolTip": "inventorycs.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAIA2wFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T12:18:41.842Z"
+              "WhenOpened": "2025-10-23T13:58:32.463Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "inventorycs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\inventorycs.cs",
+              "RelativeDocumentMoniker": "inventorycs.cs",
+              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\inventorycs.cs [Design]",
+              "RelativeToolTip": "inventorycs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:53:48.973Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:46:34.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:46:30.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "addtochart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\addtochart.cs",
+              "RelativeDocumentMoniker": "addtochart.cs",
+              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\addtochart.cs [Design]",
+              "RelativeToolTip": "addtochart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:14:13.324Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "product.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\product.cs",
+              "RelativeDocumentMoniker": "product.cs",
+              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\product.cs [Design]",
+              "RelativeToolTip": "product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:02:18.788Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\product.cs",
+              "RelativeDocumentMoniker": "product.cs",
+              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\product.cs",
+              "RelativeToolTip": "product.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAWwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:02:25.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "report.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\report.cs",
+              "RelativeDocumentMoniker": "report.cs",
+              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\report.cs [Design]",
+              "RelativeToolTip": "report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T12:19:34.531Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dashpanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\dashpanel.cs",
+              "RelativeDocumentMoniker": "dashpanel.cs",
+              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\dashpanel.cs [Design]",
+              "RelativeToolTip": "dashpanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T12:18:41.842Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\dashboard.cs",
               "RelativeDocumentMoniker": "dashboard.cs",
-              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\dashboard.cs",
+              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\dashboard.cs",
               "RelativeToolTip": "dashboard.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAASwGwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAWwFwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T12:00:42.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "dashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\dashboard.cs",
               "RelativeDocumentMoniker": "dashboard.cs",
-              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\dashboard.cs [Design]",
+              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\dashboard.cs [Design]",
               "RelativeToolTip": "dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T03:42:57.798Z",
@@ -111,38 +244,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "addtochart.cs",
-              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\addtochart.cs",
-              "RelativeDocumentMoniker": "addtochart.cs",
-              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\addtochart.cs",
-              "RelativeToolTip": "addtochart.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFYAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "POS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\POS.cs",
+              "RelativeDocumentMoniker": "POS.cs",
+              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\POS.cs [Design]",
+              "RelativeToolTip": "POS.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T14:14:25.143Z",
+              "WhenOpened": "2025-09-18T12:37:53.459Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAArwEkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:46:37.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "addtochart.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\addtochart.cs",
+              "DocumentIndex": 15,
+              "Title": "addtochart.cs",
+              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\addtochart.cs",
               "RelativeDocumentMoniker": "addtochart.cs",
-              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\addtochart.cs [Design]",
-              "RelativeToolTip": "addtochart.cs [Design]",
+              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\PAPA-JES-S-PIZZAHOUSE-DESKTOP-APP\\JES\u0027SPIZZAHOUSE\\addtochart.cs",
+              "RelativeToolTip": "addtochart.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAD4vzMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T14:14:13.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "POS.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\POS.cs",
-              "RelativeDocumentMoniker": "POS.cs",
-              "ToolTip": "C:\\Users\\John Steven\\OneDrive\\Desktop\\JES\u0027SPIZZAHOUSE\\JES\u0027SPIZZAHOUSE\\POS.cs [Design]",
-              "RelativeToolTip": "POS.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T12:37:53.459Z"
+              "WhenOpened": "2025-09-18T14:14:25.143Z",
+              "EditorCaption": ""
             }
           ]
         }
